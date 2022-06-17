@@ -1,0 +1,27 @@
+.hnome {
+    display: flex;
+    text-align:justify;
+    align-items: center;
+    margin: auto;
+    height: 60px;
+    width: 95%;
+    color: #ac1022;
+}
+
+.htexto {
+   font-size: 125%;
+    width: 95%;
+    text-align:justify;
+    align-items: center;
+    margin: auto;
+}
+
+.himagem {
+    
+    
+   text-align: center;
+}
+
+.hfigure {
+    text-align: center;
+}
